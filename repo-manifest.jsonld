@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/colcon/colcon-output/commit/7f44232dc5bc3a116f3347c5e49192a93ad64159",
       "git:hexsha": "7f44232dc5bc3a116f3347c5e49192a93ad64159",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.2.15"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.2.15",
+      "repolex:parsedAt": "2026-10-17T23:11:11.360694+00:00"
     },
     {
       "@id": "https://repolex.ai/r/colcon/colcon-output/commit/3f2fabf91705d8176499420952460b42adbaf231",
